@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-   printf("Hello, World!\n");
+   printf("[10, 20, 30, 40, 50]\n");
    return 0;
 }
